@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tea Factory</string>
+
+
+
+    <string name="FACEBOOK_APP_ID">186660012041093</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">a3a96a24b96d2d5e6fe2929c75f77f97</string>
+</resources>
